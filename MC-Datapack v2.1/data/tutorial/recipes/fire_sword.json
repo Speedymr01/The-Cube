@@ -1,0 +1,26 @@
+{
+    "format_version": "minecraft:crafting_shaped",
+    "": [
+        " # ",
+        "FGF",
+        " M "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:torch"
+        },
+        "F": {
+            "item": "minecraft:fire_charge"
+        },
+        "G": {
+            "item": "minecraft:gold_sword"
+        },
+        "M": {
+            "item": "minecraft:magma_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}
